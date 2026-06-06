@@ -26,13 +26,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/video/intro.mp4
     - assets/images/logo.png
     - assets/images/petra.jpg
     - assets/images/jerash.jpg
     - assets/images/wadi_rum.jpg
-    - assets/images/dead_sea.jpg
-    - assets/images/ajloun.jpg
-    - assets/images/aqaba.jpg
-    - assets/sounds/correct.mp3
-    - assets/sounds/wrong.mp3
