@@ -1,0 +1,38 @@
+name: jordanguide
+description: "A new Flutter project for Jordan Tourism."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.8 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  
+  video_player: ^2.8.1
+  audioplayers: ^5.2.1
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/video/intro.mp4
+    - assets/images/logo.png
+    - assets/images/petra.jpg
+    - assets/images/jerash.jpg
+    - assets/images/wadi_rum.jpg
+    - assets/images/dead_sea.jpg
+    - assets/images/ajloun.jpg
+    - assets/images/aqaba.jpg
+    - assets/sounds/correct.mp3
+    - assets/sounds/wrong.mp3
